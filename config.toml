@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "A Hugo"
+title = "Raju SMG Website"
 theme = "hugo-lithium-theme"
 googleAnalytics = ""
 disqusShortname = ""
@@ -12,6 +12,15 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
     name = "About"
     url = "/about/"
+[[menu.main]]
+    name = "contact"
+    url = "/dd/"
+[[menu.main]]
+    name = "Untitle"
+    url = "/Untitled/"
+[[menu.main]]
+    name = "theme"
+    url = "/theme/"
 [[menu.main]]
     name = "GitHub"
     url = "https://github.com/rstudio/blwn"
